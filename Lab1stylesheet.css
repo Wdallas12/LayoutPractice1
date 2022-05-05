@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+/* lab 1 style */
+
+header, footer {
+	background: rgba(200,195,195,1.00);
+	border: solid 1px grey;
+	height: 80px;
+	clear: both;
+}
+section {
+	background: rgba(200,195,195,1.00);
+	border: solid 1px grey;
+	height: 100px;
+	width: 33%;
+	float: left;
+}
+article {
+	background: rgba(200,195,195,1.00);
+	border: solid 1px grey;
+	height: 150px;
+	width: 49.5%;
+	float: left;
+}
+
